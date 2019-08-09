@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Masters at Northeastern University <span>2018-present</span></h2>
+                        <p>I am currently pursuing M.S. in CS here at Northeastern University, Boston. I have taken courses like Algorithms, Program Design Paradigms, Foundations of AI, Web Development, DBMS. I am currently serving as a Teaching Assistant for CS 3000 Algorithms and Data. I have also been a Teaching Assistant for CS 5200 DBMS taught by prof. Dr. John Rachlin.</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +32,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Bachelors at VGEC <span>2014-2018</span></h2>
+                        <p>I completed my undergraduate in Computer Engineering from Vishwakarma Government Engineering College, Ahmedabad. My CGPA score is 8.5 out of 10. I took subjects like Object Oriented Programming in Java, Analysis and Design of Algorithms, Software Engineering, Big Data Analytics, Mobile Computing etc.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +43,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Primary and Higher Education <span>2002-2014</span></h2>
+                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 85% marks and secondary education with 91% marks. During my time at school, I have developed interest in solving complex mathematical problems which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems. Apart from Maths, Science was my favorite subject.</p>
                       </div>
                     </div>
                   </article>
