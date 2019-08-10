@@ -43,7 +43,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
+                <div className="services color-5">
                 <span className="icon">
                     <i className="icon-data" />
                 </span>
@@ -54,7 +54,7 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-4">
                 <span className="icon">
                     <i className="icon-coffee" />
                 </span>
