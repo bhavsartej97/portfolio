@@ -34,18 +34,18 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-html-five" />
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extensions using JavaScript,React,HTML,CSS</p>
+                    <p>I have experience building web applications using JavaScript, React, HTML, CSS</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-data" />
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
@@ -56,7 +56,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-coffee" />
                 </span>
                 <div className="desc">
                     <h3>Java</h3>
